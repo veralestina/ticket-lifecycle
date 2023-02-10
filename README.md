@@ -29,7 +29,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://github.com/veralestina/Images/blob/main/Github%20information/ostciketopennewticket.png" height="50%" width="50%" alt="opennewticket"/>
 </p>
 <p>
-We will use one of the Users that we previoulsy created and describe our issue. Now, the most common issues for Help Desk are:
+We will use one of the Users that we previoulsy created and describe our issue. 
+
+<p>
+<img src="https://github.com/veralestina/Images/blob/main/Github%20information/openanewticket.png" height="50%" width="50%" alt="opennewticket"/>
+</p>
+
+Now, the most common issues for Help Desk are:
 - Passwords/Credential issues or Login issues
 - Access Provisioning - Access is denied
 - Equipment Processing - equipment is new issue/returned/lost/stolen
